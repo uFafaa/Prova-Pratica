@@ -1,2 +1,4 @@
 # Prova-Pratica
-segunda chamada da prova pratica de versionamento. Dia 03/11
+
+Dia 03/11
+segunda chamada da prova pratica de versionamento e colaboração. Dia 03/11
